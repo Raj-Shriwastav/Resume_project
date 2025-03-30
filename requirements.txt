@@ -1,0 +1,11 @@
+streamlit
+pypdf2
+python-dotenv
+nltk
+tesseract
+Pillow
+pytesseract
+deepseek-ai
+google-generativeai
+matplotlib
+seaborn
