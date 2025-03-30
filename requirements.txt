@@ -9,4 +9,3 @@ deepseek-ai
 google-generativeai
 matplotlib
 seaborn
-pdfminer
